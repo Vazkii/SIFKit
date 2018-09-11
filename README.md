@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/Vazkii/SIFKit/master/main/res/drawable/chunchun.png)
+
 # SIFKit
 **School Idol Festival root helper app**  
 Based on my old RubySleeper app.
