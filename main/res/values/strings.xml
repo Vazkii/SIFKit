@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SIFKit</string>
+    <string name="accessibility_desc">Allows SIFKIt to see which app is in the foreground. We use this to automatically run the code necessary to adapt to whether SIF is up or not.</string>
+</resources>
